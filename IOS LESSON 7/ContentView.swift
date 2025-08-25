@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  IOS LESSON 7
 //
-//  Created by Chan Poh Lian on 25/8/25.
+//  Created by Lebron on 25/8/25.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Goodbye, world!")
         }
         .padding()
     }
@@ -22,3 +22,4 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
